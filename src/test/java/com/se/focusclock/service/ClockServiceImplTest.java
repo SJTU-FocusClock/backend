@@ -2,13 +2,11 @@ package com.se.focusclock.service;
 
 import com.se.focusclock.Repository.ClockRepository;
 import com.se.focusclock.entity.Clock;
-import com.se.focusclock.service.ClockService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 
-import javax.swing.text.html.Option;
 import java.sql.Time;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

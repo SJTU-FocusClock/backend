@@ -33,18 +33,6 @@ build/
 .vscode/
 
 
-### Security ###
-src/main/java/com/se/focusclock/security
-src/main/java/com/se/focusclock/config
-src/main/java/com/se/focusclock/utils
-src/main/java/com/se/focusclock/exception
-src/main/java/com/se/focusclock/handler
-src/test/java/com/se/focusclock/controller/ClockControllerTest.java
-src/test/java/com/se/focusclock/controller/UserControllerTest.java
-src/test/java/com/se/focusclock/service/ClockRecordServiceImplTest.java
-src/test/java/com/se/focusclock/service/ClockRequestServiceImplTest.java
-src/test/java/com/se/focusclock/service/UserServiceImplTest.java
-
 
 
 
